@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "3.1.8",
-  "apkUrl": "https://vk.com/doc479818001_708877470?hash=rJQwZGrSWVgK424cNUq4lfb0VqWJviAGkPNsbbA69jw&dl=DVmJWrvUaCwrtFphTG092PgvVOuW2kXrWDSU7sWzFfL&api=1&no_preview=1",
-  "vkApkUrl": "https://vk.com/doc479818001_708877470?hash=rJQwZGrSWVgK424cNUq4lfb0VqWJviAGkPNsbbA69jw&dl=DVmJWrvUaCwrtFphTG092PgvVOuW2kXrWDSU7sWzFfL&api=1&no_preview=1",
-  "tgApkUrl": "https://api.telegram.org/file/bot8447416478:AAEsQgYOnybOFeM1xYsPlkdVuOeckzoBxWI/documents/file_47.apk",
-  "changelog": "✨ SafeLink v3.1.8 (Vibration Reliability & Battery Fix):\n📳 Vibrations now always reach Katya — fixed premature message deletion causing missed vibrations!\n🔋 Battery % is now always accurate — no more fake 90%!\n👑 Profile page now shows correct version dynamically — not hardcoded v2.8.0!\n⚡ App-open battery ping: partner sees your live battery the moment you open the app!\n🔄 Background battery sync every 3 minutes via LiveSyncService!"
+  "versionCode": 54,
+  "versionName": "3.1.9",
+  "apkUrl": "https://vk.com/doc479818001_708878351?hash=LYfyqd3Ivt2ujA0hZP2YPk41piTCDF2d2uGolttsyO0&dl=jlCuPA3SSBPLGx33ZLvkpM83ZgSEtshz9IqWAFqHV9k&api=1&no_preview=1",
+  "vkApkUrl": "https://vk.com/doc479818001_708878351?hash=LYfyqd3Ivt2ujA0hZP2YPk41piTCDF2d2uGolttsyO0&dl=jlCuPA3SSBPLGx33ZLvkpM83ZgSEtshz9IqWAFqHV9k&api=1&no_preview=1",
+  "tgApkUrl": "https://api.telegram.org/file/bot8447416478:AAEsQgYOnybOFeM1xYsPlkdVuOeckzoBxWI/documents/file_49.apk",
+  "changelog": "✨ SafeLink v3.1.9 (GitHub Update Channel Fix):\n🔗 Fixed in-app update — GitHub URL case mismatch (safelink → SafeLink) was causing 404!\n📳 Vibrations now always reach Katya — fixed premature message deletion!\n🔋 Battery % always accurate — sticky intent, no fake 90%!\n👑 Profile shows correct version dynamically — not hardcoded v2.8.0!\n⚡ App-open battery ping + 3-min background sync!"
 }
